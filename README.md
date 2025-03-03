@@ -4,6 +4,8 @@
 
 The Dark Web is a part of the internet that is not indexed by traditional search engines and requires specialized software, such as the Tor browser, to access. Unlike the Surface Web (the publicly accessible internet), the Dark Web offers a level of anonymity and privacy that attracts both ethical users and malicious actors.
 
+![Dark Web](assets/tor-over-vpn-1.avif)
+
 ### How to Access the Dark Web
 1. **Download Tor Browser** – Get it from the [Tor Project](https://www.torproject.org/).
 2. **Install and Configure** – Follow the installation steps and configure it for enhanced privacy.
